@@ -1,0 +1,61 @@
+﻿@model IEnumerable<BanVotCauLong.Models.Entities.Racket>
+@{
+    ViewBag.Title = "SearchByPrice";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>SearchByPrice</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Brand.NameBrand)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NameRacket)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ImageLink)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Brand.NameBrand)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameRacket)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                <img src="~/HinhAnh/@item.ImageLink" class="ImageImportant" />
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.IdRacket }) |
+                @Html.ActionLink("Details", "Details", new { id = item.IdRacket }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.IdRacket }) |
+                <a href="/ShoppingCart/Add/@item.IdRacket">Mua</a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+<link href="~/css/new/StyleSheet1.css" rel="stylesheet" />

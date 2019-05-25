@@ -1,0 +1,268 @@
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\ApplicationInsights.config
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\roslyn\csc.exe
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\roslyn\vbc.exe
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\BanVotCauLong.dll.config
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\BanVotCauLong.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\BanVotCauLong.pdb
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Antlr3.Runtime.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\EntityFramework.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AI.Web.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Owin.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.Helpers.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.Mvc.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.Optimization.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.Razor.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\WebGrease.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AI.Web.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.Helpers.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.Mvc.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.Optimization.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.Razor.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\EntityFramework.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\obj\Debug\BanVotCauLong.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\obj\Debug\BanVotCauLong.pdb
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.Http.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.Http.WebHost.dll
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.Http.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\bin\System.Web.Http.WebHost.xml
+C:\Users\Dell\Documents\CN Web\WebBanHang\BanVotCauLong\obj\Debug\BanVotCauLong.csprojResolveAssemblyReference.cache
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\ApplicationInsights.config
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\roslyn\csc.exe
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\roslyn\System.Collections.Immutable.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\roslyn\System.Reflection.Metadata.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\roslyn\vbc.exe
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\roslyn\VBCSCompiler.exe
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\roslyn\VBCSCompiler.exe.config
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\BanVotCauLong.dll.config
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\BanVotCauLong.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\BanVotCauLong.pdb
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Antlr3.Runtime.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\EntityFramework.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\EntityFramework.SqlServer.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AI.DependencyCollector.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AI.Web.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AI.WindowsServer.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.ApplicationInsights.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Facebook.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Google.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Twitter.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Web.Infrastructure.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Newtonsoft.Json.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Owin.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Net.Http.Formatting.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.Helpers.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.Http.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.Http.WebHost.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.Mvc.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.Optimization.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.Razor.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.Deployment.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.Razor.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\WebGrease.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AI.DependencyCollector.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AI.Web.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AI.WindowsServer.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.ApplicationInsights.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Net.Http.Formatting.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.Http.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.Http.WebHost.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.Helpers.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.Mvc.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.Optimization.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.Razor.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.Deployment.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.Razor.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Antlr3.Runtime.pdb
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Newtonsoft.Json.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\EntityFramework.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\EntityFramework.SqlServer.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Facebook.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Google.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Twitter.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\CNTT_IT\WebBanHang\BanVotCauLong\obj\Debug\BanVotCauLong.csprojResolveAssemblyReference.cache
+E:\CNTT_IT\WebBanHang\BanVotCauLong\obj\Debug\BanVotCauLong.dll
+E:\CNTT_IT\WebBanHang\BanVotCauLong\obj\Debug\BanVotCauLong.pdb
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\ApplicationInsights.config
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\roslyn\csc.exe
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\roslyn\vbc.exe
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\BanVotCauLong.dll.config
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\BanVotCauLong.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\BanVotCauLong.pdb
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Antlr3.Runtime.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\EntityFramework.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AI.Web.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Owin.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.Helpers.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.Http.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.Http.WebHost.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.Mvc.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.Optimization.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.Razor.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\WebGrease.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AI.Web.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.Http.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.Http.WebHost.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.Helpers.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.Mvc.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.Optimization.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.Razor.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\EntityFramework.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\obj\Debug\BanVotCauLong.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\obj\Debug\BanVotCauLong.pdb
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\PagedList.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\PagedList.Mvc.dll
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\PagedList.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\bin\PagedList.Mvc.xml
+C:\Users\Dell\Downloads\ThucTap KTLT_TuanCuoi\TuanCuoi2\WebBanHang\BanVotCauLong\obj\Debug\BanVotCauLong.csprojResolveAssemblyReference.cache

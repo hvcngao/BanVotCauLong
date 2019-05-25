@@ -1,0 +1,80 @@
+﻿@model PagedList.IPagedList<BanVotCauLong.Models.Entities.Racket>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (@Html.BeginForm())
+{
+    <p>
+        Sắp Xếp: @Html.ActionLink("Giá từ cao xuống thấp", "Index", new { sO = "DP" }) <span> | </span>
+        @Html.ActionLink("Giá từ thấp đến cao", "Index", new { sO = "P" })<span>   &nbsp;&nbsp;   </span>
+        Tên Vợt: @Html.TextBox("SearchString") <input type="submit" value="Tìm kiếm" />
+    </p>
+
+
+    <table class="table">
+        <tr>
+            <th>
+                Thương Hiệu
+            </th>
+            <th>
+                Tên Vợt
+            </th>
+            <th>
+                Số Lượng
+            </th>
+            <th>
+                Giá
+            </th>
+            <th>
+                Hình Ảnh
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Brand.NameBrand
+                </td>
+                <td>
+                    @item.NameRacket
+                </td>
+                <td>
+                    @item.Quantity
+                </td>
+                <td>
+                    @item.Price
+                </td>
+                <td>
+                    <img src="~/HinhAnh/@item.ImageLink" class="ImageImportant" />
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.IdRacket }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.IdRacket, re= Request.UrlReferrer.ToString().Contains("Rackets") }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.IdRacket })                   
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+
+<br />
+Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)   /  @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+<!-- Kết thúc -->
+
+<br /><br />
+<a href="/Admins/Show">Back to Menu</a>
+
+<link href="~/css/new/StyleSheet1.css" rel="stylesheet" />

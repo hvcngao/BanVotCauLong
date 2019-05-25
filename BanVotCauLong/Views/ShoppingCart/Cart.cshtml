@@ -1,0 +1,92 @@
+﻿@using BanVotCauLong.Models.Entities;
+@{
+    ViewBag.Title = "Cart";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+    ShoppingCart cart = (ShoppingCart)Session["cart"];
+
+}
+
+
+<h2>Cart</h2>
+
+@using (Html.BeginForm("ToPay", "ShoppingCart", FormMethod.Get))
+{ 
+        if (cart != null)
+        {
+            List<Item> lst = cart.lst;
+            var temp = lst;
+       
+             <table class="table">            
+                <tr>
+                    <th hidden>
+                        Id
+                    </th>
+                    <th>
+                        Hình Ảnh
+                    </th>
+                    <th>
+                        Tên Sản Phẩm
+                    </th>
+                    <th>
+                        Giá
+
+                    </th>
+                    <th>
+                        Số Lượng
+                    </th>
+                    <th>
+                        Thành Tiền
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in lst)
+                {
+                    <tr>
+                        <td hidden> @item.id</td>
+                        <td>
+                            <img src="~/HinhAnh/@item.ImageLink" width="100" height="100" />
+                        </td>
+                        <td>
+                            @item.name
+                        </td>
+                        <td>
+                           @item.price
+                        </td>
+                        <td>
+                            @item.amount
+                        </td>
+                        @{
+                            var tt = @item.amount * @item.price;
+    }
+                        <td>
+                            @tt  VNĐ
+                        </td>
+                        <td>
+                            <a href="/ShoppingCart/Sub/@item.id" >Bớt</a> |
+                        </td>
+                        <td>                         
+                            <a href="/ShoppingCart/Add/@item.id">Thêm</a>
+                        </td>
+                    </tr>
+                            }
+
+            </table>
+
+            <div>Tổng Tiền Là : @cart.GetTotalMoney()  VNĐ</div>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Thanh Toán" class="btn btn-default" />      
+                        <a href="/Users/Show">Tiếp tục mua</a>
+                </div>
+            </div>                               
+       }
+       else
+        {
+        <h2> Gio Hang Trong</h2>
+        <br /> <br /> 
+        
+        <a href="/Users/Show">Tiếp tục mua Sam</a>
+      
+         }
+}

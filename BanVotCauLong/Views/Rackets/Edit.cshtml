@@ -1,0 +1,92 @@
+﻿@model BanVotCauLong.Models.Entities.Racket
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm("Edit", "Rackets", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Racket</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.IdRacket)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.NameRacket, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.NameRacket, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.NameRacket, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.IdBrand, "IdBrand", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("IdBrand", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.IdBrand, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Quantity, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Quantity, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Quantity, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Price, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Price, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Price, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @{
+                string temp = Model.ImageLink;
+            }
+            <div class="form-group">
+                @Html.LabelFor(model => model.ImageLink, htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.HiddenFor(model => model.ImageLink)
+                <div class="col-md-10">
+                    @*name thẻ input "file" trùng tên vs tham số bên controller*@
+                    <input type="button" onclick="document.getElementById('hiddenFile').click()" value="Chọn tệp" />
+                    <input id="labelFilename" type="text" disabled value="@Model.ImageLink" />
+                    <input id="hiddenFile" type="file" name="FileUpload" style="display: none" onchange="onFileChange(this);" />
+                    @ViewBag.FileStatus
+                </div>
+                <div class="col-md-10">
+                    <img id="imp" src="~/HinhAnh/@temp" width="150" height="150" />
+                </div>                
+            </div>
+
+        </div>
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+<script type="text/javascript">
+    function onFileChange(event) {
+        document.getElementById('labelFilename').value = document.getElementById('hiddenFile').value.replace('C:\\fakepath\\', '');
+        document.getElementById('imp').src = "/HinhAnh/"+ document.getElementById('hiddenFile').value.replace('C:\\fakepath\\', '');
+    }
+</script>

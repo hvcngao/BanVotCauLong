@@ -1,0 +1,46 @@
+﻿@model IEnumerable<BanVotCauLong.Models.Entities.Order>
+@{
+    ViewBag.Title = "ToPay2";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2> Cảm ơn quý khách đã mua hàng</h2>
+<div>Thông tin đơn hàng đã mua</div>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.User.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotalMonney)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalMonney)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>               
+                @Html.ActionLink("Details", "Details", new {  id=item.IdOrder }) |
+                <!--<a href="/Orders/Delete/@item.IdOrder">Delete</a>-->  
+            </td>  
+                   
+        </tr>
+    }
+
+</table>
+
+<a href="/Users/Show">Quay lại mua sắm</a>
+

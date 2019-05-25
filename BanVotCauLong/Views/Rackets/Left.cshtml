@@ -1,0 +1,172 @@
+﻿@model IEnumerable<BanVotCauLong.Models.Entities.Brand>
+
+@{
+    Layout = null;
+}
+<link rel="stylesheet" href="../../vendors/iconfonts/mdi/css/materialdesignicons.min.css">
+<link rel="stylesheet" href="../../vendors/icheck/skins/all.css">
+<link rel="stylesheet" href="../../css/style.css">
+<link rel="shortcut icon" href="../../images/favicon.png">
+
+<nav class="sidebar sidebar-offcanvas" id="sidebar">
+    <ul class="nav">
+        <li class="nav-item nav-profile">
+            <div class="nav-link">
+                <div class="user-wrapper">
+                    <div class="profile-image">
+                        <img src="../../images/faces/face14.jpg" alt="profile image">
+                    </div>
+                    <div class="text-wrapper">
+                        <p class="profile-name">Hoàng Văn Cường</p>
+                        <div>
+                            <small class="designation text-muted">Manager</small>
+                            <span class="status-indicator online"></span>
+                        </div>
+                    </div>
+                </div>
+           </div>  
+        </li>
+        <!--
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
+                <i class="menu-icon mdi mdi-content-copy"></i>
+                <span class="menu-title">Giá Vợt</span>
+                <i class="menu-arrow"></i>
+            </a>
+            <div class="collapse" id="ui-basic">
+                <ul class="nav flex-column sub-menu">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Rackets/SearchByPrice/1">Dưới 100,000 VNĐ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Rackets/SearchByPrice/2">Từ 100,000 đến 200,000 VNĐ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Rackets/SearchByPrice/3">Từ 200,000 đến 500,000 VNĐ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Rackets/SearchByPrice/4">Từ 500,000 đến 1,000,000 VNĐ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Rackets/SearchByPrice/5">Từ 1,000,000 trở lên</a>
+                    </li>
+                </ul>
+            </div>
+
+         </li>
+            -->
+        
+        <li>       
+            <div class="card-body">
+                <h2>Gia Vot</h2>
+                <form class="forms-sample" method="post"  action="/Rackets/SearchByPrice/">
+                    <div class="row">                      
+                            <div class="form-group">
+                                <div class="form-radio">
+                                    <label class="form-check-label">
+                                        <input type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios1" value="1" checked="">Dưới 100,000 VNĐ
+                                        <i class="input-helper"></i>
+                                    </label>
+                                </div>
+                                <div class="form-radio">
+                                    <label class="form-check-label">
+                                        <input type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios2" value="2">Từ 100,000 đến 200,000 VNĐ
+                                        <i class="input-helper"></i>
+                                    </label>
+                                </div>
+                                <div class="form-radio">
+                                    <label class="form-check-label">
+                                        <input type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios3" value="3">Từ 200,000 đến 500,000 VNĐ
+                                        <i class="input-helper"></i>
+                                    </label>
+                                </div>
+                                <div class="form-radio">
+                                    <label class="form-check-label">
+                                        <input type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios4" value="4">Từ 500,000 đến 1,000,000 VNĐ
+                                        <i class="input-helper"></i>
+                                    </label>
+                                </div>
+                                <div class="form-radio">
+                                    <label class="form-check-label">
+                                        <input type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios5" value="5">Từ 1,000,000 trở lên
+                                        <i class="input-helper"></i>
+                                    </label>
+                                </div>
+                            </div>
+
+                       
+                    </div>
+                    <input id="btn1" type="submit" value="Lọc" />
+                </form>
+            </div>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#">
+                <i class="menu-icon mdi mdi-backup-restore"></i>
+                <span class="menu-title">Thông tin Doanh Nghiệp</span>
+            </a>
+        </li>
+       <li>
+           <div class="card-body">
+               <h2>Thương hiệu</h2>
+               <form class="forms-sample" method="post" action="/Rackets/SearchByBrand/">
+                   @foreach (var item in Model)
+                   {
+                       <div class="row">
+                           <div class="col-md-6">
+                               <div class="form-group">
+                                   <div class="form-check form-check-flat">
+                                       <label class="form-check-label">
+                                           <input type="checkbox" class="form-check-input" value="@item.IdBrand" name="check"> @item.NameBrand
+                                           <i class="input-helper"></i>
+                                       </label>
+                                   </div>
+                               </div>
+                           </div>                      
+                        </div>
+                   }
+                   <input id="btn1" type="submit" value="Lọc" />
+                </form>
+            </div>
+        </li>
+       <!-- 
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#auth" aria-expanded="false" aria-controls="auth">
+                <i class="menu-icon mdi mdi-restart"></i>
+                <span class="menu-title">Danh Mục Vợt</span>
+                <i class="menu-arrow"></i>
+            </a>
+            <div class="collapse" id="auth">
+                <ul class="nav flex-column sub-menu">
+    @foreach (var item in Model)
+    {
+         //   <li class="nav-item"> <a class="nav-link" href="/Rackets/SearchByBrand/@item.IdBrand">@Html.DisplayFor(itemModel => item.NameBrand)</a></li>
+        <div class="card-body">
+            <form class="forms-sample" action="/Rackets/SearchByBrand/@item.IdBrand">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <div class="form-check form-check-flat">
+                                <label type="submit" class="form-check-label">
+                                    <input type="checkbox" class="form-check-input"> @item.NameBrand
+                                    <i class="input-helper"></i>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    }
+
+                    </ul>
+            </div>
+        </li>
+        -->
+    </ul>
+</nav>
+
+
+<script src="../../js/off-canvas.js"></script>
+<script src="../../js/misc.js"></script>
+

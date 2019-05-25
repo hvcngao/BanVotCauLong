@@ -1,0 +1,70 @@
+﻿@model BanVotCauLong.Models.Entities.Racket
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Racket</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Brand.NameBrand)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Brand.NameBrand)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NameRacket)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NameRacket)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Quantity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImageLink)
+        </dt>
+
+        <dd>
+            <div class="col-md-10">
+                <img src="~/HinhAnh/@Model.ImageLink" width="150" height="150" />
+            </div>
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdRacket }) |
+    
+    @if (ViewBag.re==true)
+    {
+        <a href="/Rackets/Index">Quay Lại</a>
+    }
+    else
+    {
+        <a href="/ShoppingCart/Add/@Model.IdRacket">Mua</a><br />
+        <a href="/Users/Show">Quay Lại</a> 
+    }
+</p>
